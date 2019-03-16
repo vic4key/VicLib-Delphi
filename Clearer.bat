@@ -1,0 +1,11 @@
+@Echo off
+del *.dsk
+del *.cfg
+del *.bak
+del *.local
+del *.identcache
+del *.exe
+del *.stat
+del *.otares
+del *.res
+del *.bdsproj
